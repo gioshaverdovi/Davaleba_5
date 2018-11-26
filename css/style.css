@@ -17,3 +17,21 @@
 	line-height: 60px;
 	margin-right: 15px;
 }
+.banner{
+	background-color: #E6E6E6;
+}
+.banner img{
+	width: 1170px;
+	margin: 30px 98px;
+}
+.sec_box{
+	background-color: #363E97;
+}
+.boxcontainer{
+	width: 1170px;
+	margin: 90px;
+	background-color: red;
+}
+.box1{
+	width: 570px;
+}
